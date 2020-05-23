@@ -1,0 +1,33 @@
+.heading{
+    font-size: 6rem;
+    font-family: 'Quicksand', sans-serif;
+text-align: center;
+margin-left: 20px;
+
+}
+#alignNotes{
+    text-align: center;
+}
+input[type=text]{
+    border-radius: 15px;
+    width:50%;
+    border:2px solid #363763;
+    margin:12px;
+    padding:20px;
+   
+   
+}
+ul{
+    font-size:20px;
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 2px;
+    text-align: center;
+}
+hr.rule{
+border-style:dotted;
+  border-bottom:none;
+  border-width:10px;
+  border-spacing:20px;
+  border-color: #858585;
+  width:10%;
+}
